@@ -51,3 +51,10 @@
 - [《Go Programming Blueprints(January 23,2015)》](https://www.packtpub.com/application-development/go-programming-blueprints)
 - [《The Go Programming Language(Published Oct 30, 2015,Not Yet Published)》](http://www.gopl.io/)
 - [《Practical Go: Real world advice for writing maintainable Go programs》](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+  
+## Rust
+- [《perf-book》](https://github.com/nnethercote/perf-book) The Rust Performance Book.
+- [《Rust编程之道》](https://item.jd.com/12479415.html)
+- [《Rust权威指南》](https://item.jd.com/12878638.html)
+- [《Rust程序设计》](https://item.jd.com/12971660.html)
+- [《深入浅出Rust》](https://item.jd.com/31846262388.html)
