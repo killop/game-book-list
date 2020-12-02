@@ -6,6 +6,7 @@
 ## Software-Design
 - [《软件设计的哲学》](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh)  5星 《软件设计的哲学》中文翻译
 - [《架构整洁之道》](https://github.com/gdut-yy/Clean-Architecture-zh) 5星 《架构整洁之道》中文翻译
+- [《编程之道》](https://github.com/yikeke/tao-of-programming)
 ## .Net
 * [《Pro .NET Performance: Optimize Your C# Applications》](https://www.amazon.com/dp/1430244585) by Sasha Goldshtein, Dima Zurbalev, Ido Flatow
 * [《Pro .NET Memory Management: For Better Code, Performance, and Scalability》](https://prodotnetmemory.com) by Konrad Kokosa
@@ -21,6 +22,7 @@
 * [《Under the Hood of .NET Memory Management》](https://www.red-gate.com/library/under-the-hood-of-net-memory-management) by Chris Farrell and Nick Harrison 
 * [《Functional Concurrency in .NET》](https://www.manning.com/books/functional-concurrency-in-dotnet) by Riccardo Terrell
 ## Go
+- [《Go语法树入门》](https://github.com/chai2010/go-ast-book)
 - [《深入解析Go》](https://github.com/tiancaiamao/go-internals)
 - [《Go实战开发》](https://github.com/astaxie/Go-in-Action)
 - [《Go入门指南》](https://github.com/Unknwon/the-way-to-go_ZH_CN)
@@ -50,11 +52,15 @@
 - [《Mastering Concurrency in Go(July 2014)Nathan Kozyra》](https://www.packtpub.com/application-development/mastering-concurrency-go)
 - [《Go Programming Blueprints(January 23,2015)》](https://www.packtpub.com/application-development/go-programming-blueprints)
 - [《The Go Programming Language(Published Oct 30, 2015,Not Yet Published)》](http://www.gopl.io/)
-- [《Practical Go: Real world advice for writing maintainable Go programs》](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
-  
+- [《Practical Go: Real world advice for writing maintainable Go programs》](https://dave.cheney.net/practical-go/presentations/qcon-china.html) 
 ## Rust
 - [《perf-book》](https://github.com/nnethercote/perf-book) The Rust Performance Book.
 - [《Rust编程之道》](https://item.jd.com/12479415.html)
 - [《Rust权威指南》](https://item.jd.com/12878638.html)
 - [《Rust程序设计》](https://item.jd.com/12971660.html)
 - [《深入浅出Rust》](https://item.jd.com/31846262388.html)
+- [rust-reference](https://minstrel1977.gitee.io/rust-reference/type-layout.html)
+#### Article
+- [min-sized-rust](https://github.com/johnthagen/min-sized-rust)  This repository demonstrates how to minimize the size of a Rust binary.
+## C++
+[modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
