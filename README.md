@@ -1,3 +1,7 @@
+## CG
+- [计算机图形学必读的10本书 ](https://www.msra.cn/zh-cn/news/features/book-recommendation-computer-graphics)
+- [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
+- [maths_cheat_sheet](https://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf)
 ## Unity
 - [《UnityGraphicsProgramming》](https://github.com/IndieVisualLab) 5星 unity 图形学编程
 ## DDD
@@ -7,6 +11,7 @@
 - [《软件设计的哲学》](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh)  5星 《软件设计的哲学》中文翻译
 - [《架构整洁之道》](https://github.com/gdut-yy/Clean-Architecture-zh) 5星 《架构整洁之道》中文翻译
 - [《编程之道》](https://github.com/yikeke/tao-of-programming)
+- [《魔法十分钟》](- https://github.com/goldimax/magic-in-ten-mins)
 ## .Net
 * [《Pro .NET Performance: Optimize Your C# Applications》](https://www.amazon.com/dp/1430244585) by Sasha Goldshtein, Dima Zurbalev, Ido Flatow
 * [《Pro .NET Memory Management: For Better Code, Performance, and Scalability》](https://prodotnetmemory.com) by Konrad Kokosa
@@ -31,6 +36,7 @@
 - [《Go语言博客实践》](https://github.com/achun/Go-Blog-In-Action)
 - [《Go语言学习笔记》](https://github.com/qyuhen/book)
 - [《Go语言高级编程》](https://github.com/chai2010/advanced-go-programming-book)
+- [《Go 语言高性能编程》](https://geektutu.com/post/high-performance-go.html)
 - [《Effective Go》](https://golang.org/doc/effective_go.html) 英文版
 - [《The Way to Go》](https://github.com/Unknwon/the-way-to-go_ZH_CN) 中文版
 - [《Learning Go》](https://github.com/miekg/gobook)[《Learning Go》 中文版](https://github.com/mikespook/Learning-Go-zh-cn) 
@@ -60,6 +66,7 @@
 - [《Rust程序设计》](https://item.jd.com/12971660.html)
 - [《深入浅出Rust》](https://item.jd.com/31846262388.html)
 - [rust-reference](https://minstrel1977.gitee.io/rust-reference/type-layout.html)
+- [easy_rust_chs](https://github.com/kumakichi/easy_rust_chs)
 #### Article
 - [min-sized-rust](https://github.com/johnthagen/min-sized-rust)  This repository demonstrates how to minimize the size of a Rust binary.
 ## C++
