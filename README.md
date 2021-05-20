@@ -14,7 +14,7 @@
 - [《软件设计的哲学》](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh)  5星 《软件设计的哲学》中文翻译
 - [《架构整洁之道》](https://github.com/gdut-yy/Clean-Architecture-zh) 5星 《架构整洁之道》中文翻译
 - [《编程之道》](https://github.com/yikeke/tao-of-programming)
-- [《魔法十分钟》](- https://github.com/goldimax/magic-in-ten-mins)
+- [《魔法十分钟》](https://github.com/goldimax/magic-in-ten-mins)
 ## 程序员心智
 - [设计规则模块化的力量](https://book.douban.com/subject/1737636/)
 ### 社科
@@ -80,7 +80,7 @@
 ## C++
 [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 ## Math
-[《图论——一个迷人的世界》](https://book.douban.com/subject/27038320/)
-[《实用线性代数》](https://book.douban.com/subject/26336485/)
+- [《图论——一个迷人的世界》](https://book.douban.com/subject/27038320/)
+- [《实用线性代数》](https://book.douban.com/subject/26336485/)
 ## GameEngine
-[books-i-used-to-develop-a-game-engine](https://www.haroldserrano.com/blog/books-i-used-to-develop-a-game-engine)
+- [books-i-used-to-develop-a-game-engine](https://www.haroldserrano.com/blog/books-i-used-to-develop-a-game-engine)
