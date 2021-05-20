@@ -1,6 +1,9 @@
 ## CG
+- [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
+- [chrisbrejon](https://chrisbrejon.com/) 
 - [计算机图形学必读的10本书 ](https://www.msra.cn/zh-cn/news/features/book-recommendation-computer-graphics)
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
+- [computer-graphics-from-scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 - [maths_cheat_sheet](https://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf)
 ## Unity
 - [《UnityGraphicsProgramming》](https://github.com/IndieVisualLab) 5星 unity 图形学编程
@@ -12,6 +15,11 @@
 - [《架构整洁之道》](https://github.com/gdut-yy/Clean-Architecture-zh) 5星 《架构整洁之道》中文翻译
 - [《编程之道》](https://github.com/yikeke/tao-of-programming)
 - [《魔法十分钟》](- https://github.com/goldimax/magic-in-ten-mins)
+## 程序员心智
+- [设计规则模块化的力量](https://book.douban.com/subject/1737636/)
+### 社科
+- [原则](https://item.jd.com/49644339448.html)
+- [苏世民 我的经验与教训 快速复制成功者的投资管理秘诀 ](https://item.jd.com/12810476.html)
 ## .Net
 * [《Pro .NET Performance: Optimize Your C# Applications》](https://www.amazon.com/dp/1430244585) by Sasha Goldshtein, Dima Zurbalev, Ido Flatow
 * [《Pro .NET Memory Management: For Better Code, Performance, and Scalability》](https://prodotnetmemory.com) by Konrad Kokosa
@@ -71,3 +79,8 @@
 - [min-sized-rust](https://github.com/johnthagen/min-sized-rust)  This repository demonstrates how to minimize the size of a Rust binary.
 ## C++
 [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+## Math
+[《图论——一个迷人的世界》](https://book.douban.com/subject/27038320/)
+[《实用线性代数》](https://book.douban.com/subject/26336485/)
+## GameEngine
+[books-i-used-to-develop-a-game-engine](https://www.haroldserrano.com/blog/books-i-used-to-develop-a-game-engine)
