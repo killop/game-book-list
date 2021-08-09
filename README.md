@@ -1,3 +1,6 @@
+## 程序员书单
+- https://docs.imzlp.com
+- https://github.com/Gforcex/GPU-Book
 ## CG
 - [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 - [chrisbrejon](https://chrisbrejon.com/) 
@@ -35,6 +38,7 @@
 * [《Under the Hood of .NET Memory Management》](https://www.red-gate.com/library/under-the-hood-of-net-memory-management) by Chris Farrell and Nick Harrison 
 * [《Functional Concurrency in .NET》](https://www.manning.com/books/functional-concurrency-in-dotnet) by Riccardo Terrell
 ## Go
+- https://github.com/dariubs/GoBooks
 - [《Go语法树入门》](https://github.com/chai2010/go-ast-book)
 - [《深入解析Go》](https://github.com/tiancaiamao/go-internals)
 - [《Go实战开发》](https://github.com/astaxie/Go-in-Action)
