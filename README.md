@@ -1,6 +1,7 @@
 ## 程序员书单
 - https://docs.imzlp.com
 - https://github.com/Gforcex/GPU-Book
+- https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics
 ## CG
 - [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 - [chrisbrejon](https://chrisbrejon.com/) 
@@ -39,6 +40,7 @@
 * [《Functional Concurrency in .NET》](https://www.manning.com/books/functional-concurrency-in-dotnet) by Riccardo Terrell
 ## Go
 - https://github.com/dariubs/GoBooks
+- https://github.com/0voice/Introduction-to-Golang
 - [《Go语法树入门》](https://github.com/chai2010/go-ast-book)
 - [《深入解析Go》](https://github.com/tiancaiamao/go-internals)
 - [《Go实战开发》](https://github.com/astaxie/Go-in-Action)
@@ -72,6 +74,7 @@
 - [《The Go Programming Language(Published Oct 30, 2015,Not Yet Published)》](http://www.gopl.io/)
 - [《Practical Go: Real world advice for writing maintainable Go programs》](https://dave.cheney.net/practical-go/presentations/qcon-china.html) 
 ## Rust
+- https://github.com/0voice/Understanding_in_Rust
 - [《perf-book》](https://github.com/nnethercote/perf-book) The Rust Performance Book.
 - [《Rust编程之道》](https://item.jd.com/12479415.html)
 - [《Rust权威指南》](https://item.jd.com/12878638.html)
@@ -79,6 +82,9 @@
 - [《深入浅出Rust》](https://item.jd.com/31846262388.html)
 - [rust-reference](https://minstrel1977.gitee.io/rust-reference/type-layout.html)
 - [easy_rust_chs](https://github.com/kumakichi/easy_rust_chs)
+
+## database
+- https://github.com/asdlei99/ddia
 #### Article
 - [min-sized-rust](https://github.com/johnthagen/min-sized-rust)  This repository demonstrates how to minimize the size of a Rust binary.
 ## C++
@@ -86,6 +92,7 @@
 ## Math
 - [《图论——一个迷人的世界》](https://book.douban.com/subject/27038320/)
 - [《实用线性代数》](https://book.douban.com/subject/26336485/)
+- [Interactive Linear Algebra](https://textbooks.math.gatech.edu)
 ## GameEngine
 - [books-i-used-to-develop-a-game-engine](https://www.haroldserrano.com/blog/books-i-used-to-develop-a-game-engine)
 ## Computer Language Compiler
