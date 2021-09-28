@@ -9,6 +9,7 @@
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
 - [computer-graphics-from-scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 - [maths_cheat_sheet](https://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf)
+- https://www.stubbornhuang.com/
 ## Unity
 - [《UnityGraphicsProgramming》](https://github.com/IndieVisualLab) 5星 unity 图形学编程
 ## DDD
@@ -88,7 +89,8 @@
 #### Article
 - [min-sized-rust](https://github.com/johnthagen/min-sized-rust)  This repository demonstrates how to minimize the size of a Rust binary.
 ## C++
-[modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+- [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+https://github.com/0voice/cpp_new_features
 ## Math
 - [《图论——一个迷人的世界》](https://book.douban.com/subject/27038320/)
 - [《实用线性代数》](https://book.douban.com/subject/26336485/)
