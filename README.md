@@ -91,6 +91,8 @@
 ## C++
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 - [cpp_new_features](https://github.com/0voice/cpp_new_features)
+## C
+- https://wangdoc.com/clang/intro.html
 ## Math
 - [《图论——一个迷人的世界》](https://book.douban.com/subject/27038320/)
 - [《实用线性代数》](https://book.douban.com/subject/26336485/)
