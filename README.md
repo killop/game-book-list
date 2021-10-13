@@ -40,6 +40,7 @@
 * [《Under the Hood of .NET Memory Management》](https://www.red-gate.com/library/under-the-hood-of-net-memory-management) by Chris Farrell and Nick Harrison 
 * [《Functional Concurrency in .NET》](https://www.manning.com/books/functional-concurrency-in-dotnet) by Riccardo Terrell
 ## Go
+- https://github.com/llitfkitfk/go-best-practice
 - https://github.com/dariubs/GoBooks
 - https://github.com/0voice/Introduction-to-Golang
 - [《Go语法树入门》](https://github.com/chai2010/go-ast-book)
@@ -91,6 +92,7 @@
 ## C++
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 - [cpp_new_features](https://github.com/0voice/cpp_new_features)
+- [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
 ## C
 - https://wangdoc.com/clang/intro.html
 ## Math
