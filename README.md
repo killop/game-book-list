@@ -13,6 +13,7 @@
 ## Unity
 - [《UnityGraphicsProgramming》](https://github.com/IndieVisualLab) 5星 unity 图形学编程
 ## DDD
+- [《分布式系统模式》中文版](https://github.com/dreamhead/patterns-of-distributed-systems)
 - [《实现领域驱动设计》](https://github.com/gdut-yy/Implementing-Domain-Driven-Design-zh) 5星 《实现领域驱动设计》中文翻译
 - [《领域驱动设计：软件核心复杂性应对之道》](https://github.com/gdut-yy/Domain-Driven-Design-zh)  5星 《领域驱动设计：软件核心复杂性应对之道》中文翻译
 ## Software-Design
