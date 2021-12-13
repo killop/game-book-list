@@ -1,6 +1,8 @@
 ## 程序员书单
 - https://docs.imzlp.com
 - https://github.com/Gforcex/GPU-Book
+- http://gameenginegems.com/gemsdb/index.php
+- http://www.aiwisdom.com/
 - https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics
 ## CG
 - [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
