@@ -79,6 +79,7 @@
 - [《The Go Programming Language(Published Oct 30, 2015,Not Yet Published)》](http://www.gopl.io/)
 - [《Practical Go: Real world advice for writing maintainable Go programs》](https://dave.cheney.net/practical-go/presentations/qcon-china.html) 
 ## Rust
+- [Rust 死灵书简体中文翻译](https://github.com/PureWhiteWu/nomicon-zh-Hans)
 - https://github.com/0voice/Understanding_in_Rust
 - [《perf-book》](https://github.com/nnethercote/perf-book) The Rust Performance Book.
 - [《Rust编程之道》](https://item.jd.com/12479415.html)
