@@ -4,6 +4,8 @@
 - http://gameenginegems.com/gemsdb/index.php
 - http://www.aiwisdom.com/
 - https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics
+- https://github.com/0voice/expert_readed_books
+- https://www.best-books.dev/
 ## CG
 - [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 - [chrisbrejon](https://chrisbrejon.com/) 
@@ -16,9 +18,10 @@
 - [《UnityGraphicsProgramming》](https://github.com/IndieVisualLab) 5星 unity 图形学编程
 ## DDD
 - [《分布式系统模式》中文版](https://github.com/dreamhead/patterns-of-distributed-systems)
-- [《实现领域驱动设计》](https://github.com/gdut-yy/Implementing-Domain-Driven-Design-zh) 5星 《实现领域驱动设计》中文翻译
+- [《实现领域驱动设计》](https://zhuanlan.zhihu.com/p/137260798) 
 - [《领域驱动设计：软件核心复杂性应对之道》](https://github.com/gdut-yy/Domain-Driven-Design-zh)  5星 《领域驱动设计：软件核心复杂性应对之道》中文翻译
 ## Software-Design
+-  [凤凰架构](https://icyfenix.cn/)
 - [《软件设计的哲学》](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh)  5星 《软件设计的哲学》中文翻译
 - [《架构整洁之道》](https://github.com/gdut-yy/Clean-Architecture-zh) 5星 《架构整洁之道》中文翻译
 - [《编程之道》](https://github.com/yikeke/tao-of-programming)
@@ -43,6 +46,7 @@
 * [《Under the Hood of .NET Memory Management》](https://www.red-gate.com/library/under-the-hood-of-net-memory-management) by Chris Farrell and Nick Harrison 
 * [《Functional Concurrency in .NET》](https://www.manning.com/books/functional-concurrency-in-dotnet) by Riccardo Terrell
 ## Go
+- https://github.com/talkgo/read
 - https://github.com/llitfkitfk/go-best-practice
 - https://github.com/dariubs/GoBooks
 - https://github.com/0voice/Introduction-to-Golang
@@ -79,6 +83,8 @@
 - [《The Go Programming Language(Published Oct 30, 2015,Not Yet Published)》](http://www.gopl.io/)
 - [《Practical Go: Real world advice for writing maintainable Go programs》](https://dave.cheney.net/practical-go/presentations/qcon-china.html) 
 ## Rust
+- [async-book](https://github.com/rust-lang/async-book) Asynchronous Programming in Rust
+- [rust-course](https://github.com/sunface/rust-course)
 - [Rust 死灵书简体中文翻译](https://github.com/PureWhiteWu/nomicon-zh-Hans)
 - https://github.com/0voice/Understanding_in_Rust
 - [《perf-book》](https://github.com/nnethercote/perf-book) The Rust Performance Book.
@@ -94,11 +100,14 @@
 #### Article
 - [min-sized-rust](https://github.com/johnthagen/min-sized-rust)  This repository demonstrates how to minimize the size of a Rust binary.
 ## C++
+- [safe-rules](https://github.com/Qihoo360/safe-rules) 详细的C/C++编程规范指南，由360质量工程部编著，适用于桌面、服务端及嵌入式软件系统
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 - [cpp_new_features](https://github.com/0voice/cpp_new_features)
 - [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
 ## C
 - https://wangdoc.com/clang/intro.html
+## Java
+- https://github.com/CL0610/Java-concurrency 
 ## Math
 - [《图论——一个迷人的世界》](https://book.douban.com/subject/27038320/)
 - [《实用线性代数》](https://book.douban.com/subject/26336485/)
