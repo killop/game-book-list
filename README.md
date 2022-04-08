@@ -94,7 +94,9 @@
 - [《深入浅出Rust》](https://item.jd.com/31846262388.html)
 - [rust-reference](https://minstrel1977.gitee.io/rust-reference/type-layout.html)
 - [easy_rust_chs](https://github.com/kumakichi/easy_rust_chs)
-
+## Linear-Algebra
+- [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) 线性代数笔记
+- [notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra) Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 ## database
 - https://github.com/asdlei99/ddia
 #### Article
@@ -104,6 +106,7 @@
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 - [cpp_new_features](https://github.com/0voice/cpp_new_features)
 - [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+- https://github.com/balloonwj/CppGuide
 ## C
 - https://wangdoc.com/clang/intro.html
 ## Java
@@ -116,3 +119,6 @@
 - [books-i-used-to-develop-a-game-engine](https://www.haroldserrano.com/blog/books-i-used-to-develop-a-game-engine)
 ## Computer Language Compiler
 - [编译技术](https://parsing-techniques.duguying.net) 
+
+## bpf
+- https://github.com/DavadDi/bpf_study
