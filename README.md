@@ -4,8 +4,10 @@
 - http://gameenginegems.com/gemsdb/index.php
 - http://www.aiwisdom.com/
 - https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics
+- https://github.com/zwluoqi/graphic_books
 - https://github.com/0voice/expert_readed_books
 - https://www.best-books.dev/
+- https://github.com/manjunath5496
 ## CG
 - [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 - [chrisbrejon](https://chrisbrejon.com/) 
@@ -46,6 +48,7 @@
 * [《Under the Hood of .NET Memory Management》](https://www.red-gate.com/library/under-the-hood-of-net-memory-management) by Chris Farrell and Nick Harrison 
 * [《Functional Concurrency in .NET》](https://www.manning.com/books/functional-concurrency-in-dotnet) by Riccardo Terrell
 ## Go
+- https://shgopher.github.io/GOFamily
 - https://github.com/talkgo/read
 - https://github.com/llitfkitfk/go-best-practice
 - https://github.com/dariubs/GoBooks
@@ -83,6 +86,7 @@
 - [《The Go Programming Language(Published Oct 30, 2015,Not Yet Published)》](http://www.gopl.io/)
 - [《Practical Go: Real world advice for writing maintainable Go programs》](https://dave.cheney.net/practical-go/presentations/qcon-china.html) 
 ## Rust
+- [rust-learning](https://github.com/ctjhoa/rust-learning)
 - [async-book](https://github.com/rust-lang/async-book) Asynchronous Programming in Rust
 - [rust-course](https://github.com/sunface/rust-course)
 - [Rust 死灵书简体中文翻译](https://github.com/PureWhiteWu/nomicon-zh-Hans)
@@ -106,6 +110,7 @@
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 - [cpp_new_features](https://github.com/0voice/cpp_new_features)
 - [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+- [modern-cpp](https://changkun.de/modern-cpp/)
 - https://github.com/balloonwj/CppGuide
 ## C
 - https://wangdoc.com/clang/intro.html
@@ -119,6 +124,8 @@
 - [books-i-used-to-develop-a-game-engine](https://www.haroldserrano.com/blog/books-i-used-to-develop-a-game-engine)
 ## Computer Language Compiler
 - [编译技术](https://parsing-techniques.duguying.net) 
+- [Crafting Interpreters](https://book.douban.com/subject/35548379/)
+- [guido_blog_translation](https://github.com/chinesehuazhou/guido_blog_translation)
 
 ## bpf
 - https://github.com/DavadDi/bpf_study
