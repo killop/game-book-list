@@ -5,6 +5,7 @@
 - http://www.aiwisdom.com/
 - https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics
 - https://github.com/zwluoqi/graphic_books
+- https://github.com/yang-shuohao/Render-Books
 - https://github.com/0voice/expert_readed_books
 - https://www.best-books.dev/
 - https://github.com/manjunath5496
