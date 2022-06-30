@@ -127,6 +127,6 @@
 - [编译技术](https://parsing-techniques.duguying.net) 
 - [Crafting Interpreters](https://book.douban.com/subject/35548379/)
 - [guido_blog_translation](https://github.com/chinesehuazhou/guido_blog_translation)
-
+- [PL-Compiler-Resource](https://github.com/shining1984/PL-Compiler-Resource) 程序语言与编译技术相关资料（持续更新中）
 ## bpf
 - https://github.com/DavadDi/bpf_study
