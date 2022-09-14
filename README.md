@@ -18,6 +18,7 @@
 - [maths_cheat_sheet](https://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf)
 - https://www.stubbornhuang.com/
 ## Unity
+- [Unity-Books](https://github.com/yang-shuohao/Unity-Books)
 - [《UnityGraphicsProgramming》](https://github.com/IndieVisualLab) 5星 unity 图形学编程
 ## DDD
 - [《分布式系统模式》中文版](https://github.com/dreamhead/patterns-of-distributed-systems)
@@ -87,6 +88,7 @@
 - [《The Go Programming Language(Published Oct 30, 2015,Not Yet Published)》](http://www.gopl.io/)
 - [《Practical Go: Real world advice for writing maintainable Go programs》](https://dave.cheney.net/practical-go/presentations/qcon-china.html) 
 ## Rust
+- [How_to_learn_modern_Rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
 - [rust-learning](https://github.com/ctjhoa/rust-learning)
 - [async-book](https://github.com/rust-lang/async-book) Asynchronous Programming in Rust
 - [rust-course](https://github.com/sunface/rust-course)
