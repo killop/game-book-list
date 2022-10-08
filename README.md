@@ -7,6 +7,7 @@
 - https://github.com/zwluoqi/graphic_books
 - https://github.com/yang-shuohao/Render-Books
 - https://github.com/0voice/expert_readed_books
+- [自学图形学推荐读物](https://zhuanlan.zhihu.com/p/569531893)
 - https://www.best-books.dev/
 - https://github.com/manjunath5496
 ## CG
