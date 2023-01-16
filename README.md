@@ -36,6 +36,7 @@
 ### 社科
 - [原则](https://item.jd.com/49644339448.html)
 - [苏世民 我的经验与教训 快速复制成功者的投资管理秘诀 ](https://item.jd.com/12810476.html)
+- [Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs) 小型金融知识图谱构建流程
 ## .Net
 * [《Pro .NET Performance: Optimize Your C# Applications》](https://www.amazon.com/dp/1430244585) by Sasha Goldshtein, Dima Zurbalev, Ido Flatow
 * [《Pro .NET Memory Management: For Better Code, Performance, and Scalability》](https://prodotnetmemory.com) by Konrad Kokosa
@@ -110,6 +111,7 @@
 #### Article
 - [min-sized-rust](https://github.com/johnthagen/min-sized-rust)  This repository demonstrates how to minimize the size of a Rust binary.
 ## C++
+- [Cxx_HOPL4_zh](https://github.com/Cpp-Club/Cxx_HOPL4_zh) Chinese translation of Bjarne Stroustrup's HOPL4 paper
 - [safe-rules](https://github.com/Qihoo360/safe-rules) 详细的C/C++编程规范指南，由360质量工程部编著，适用于桌面、服务端及嵌入式软件系统
 - [modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 - [cpp_new_features](https://github.com/0voice/cpp_new_features)
