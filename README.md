@@ -118,6 +118,7 @@
 - [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
 - [modern-cpp](https://changkun.de/modern-cpp/)
 - https://github.com/balloonwj/CppGuide
+- [《C++20 STL Cookbook》的非专业个人翻译](https://github.com/xiaoweiChen/CPP-20-STL-Cookbook)
 ## C
 - https://wangdoc.com/clang/intro.html
 ## Java
