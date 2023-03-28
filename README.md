@@ -10,6 +10,7 @@
 - [自学图形学推荐读物](https://zhuanlan.zhihu.com/p/569531893)
 - https://www.best-books.dev/
 - https://github.com/manjunath5496
+- https://en.algorithmica.org/hpc
 ## CG
 - [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 - [chrisbrejon](https://chrisbrejon.com/) 
@@ -18,6 +19,7 @@
 - [computer-graphics-from-scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 - [maths_cheat_sheet](https://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf)
 - https://www.stubbornhuang.com/
+- https://github.com/kanition/pbrtbook
 ## Unity
 - [Unity-Books](https://github.com/yang-shuohao/Unity-Books)
 - [《UnityGraphicsProgramming》](https://github.com/IndieVisualLab) 5星 unity 图形学编程
@@ -31,6 +33,7 @@
 - [《架构整洁之道》](https://github.com/gdut-yy/Clean-Architecture-zh) 5星 《架构整洁之道》中文翻译
 - [《编程之道》](https://github.com/yikeke/tao-of-programming)
 - [《魔法十分钟》](https://github.com/goldimax/magic-in-ten-mins)
+- [PPHC](https://github.com/johnlui/PPHC) 《高并发的哲学原理》开源图书（CC BY-NC-ND）
 ## 程序员心智
 - [设计规则模块化的力量](https://book.douban.com/subject/1737636/)
 ### 社科
@@ -103,6 +106,7 @@
 - [《深入浅出Rust》](https://item.jd.com/31846262388.html)
 - [rust-reference](https://minstrel1977.gitee.io/rust-reference/type-layout.html)
 - [easy_rust_chs](https://github.com/kumakichi/easy_rust_chs)
+- [rust-horizon-2023](https://github.com/RustMagazine/rust-horizon-2023)
 ## Linear-Algebra
 - [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) 线性代数笔记
 - [notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra) Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
@@ -127,6 +131,9 @@
 - [《图论——一个迷人的世界》](https://book.douban.com/subject/27038320/)
 - [《实用线性代数》](https://book.douban.com/subject/26336485/)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu)
+
+## crypt
+- [人人都能读懂的密码学](https://crypt.wenwoha.com/) [github](https://github.com/guoshijiang/cryptography)
 ## GameEngine
 - [books-i-used-to-develop-a-game-engine](https://www.haroldserrano.com/blog/books-i-used-to-develop-a-game-engine)
 ## Computer Language Compiler
