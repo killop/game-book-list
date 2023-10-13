@@ -1,16 +1,12 @@
 ## 程序员书单
 - https://docs.imzlp.com
-- https://github.com/Gforcex/GPU-Book
 - http://gameenginegems.com/gemsdb/index.php
 - http://www.aiwisdom.com/
-- https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics
-- https://github.com/zwluoqi/graphic_books
-- https://github.com/yang-shuohao/Render-Books
 - https://github.com/0voice/expert_readed_books
-- [自学图形学推荐读物](https://zhuanlan.zhihu.com/p/569531893)
 - https://www.best-books.dev/
 - https://github.com/manjunath5496
 - https://en.algorithmica.org/hpc
+- https://github.com/0voice/expert_readed_books
 ## CG
 - [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 - [chrisbrejon](https://chrisbrejon.com/) 
@@ -20,6 +16,11 @@
 - [maths_cheat_sheet](https://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf)
 - https://www.stubbornhuang.com/
 - https://github.com/kanition/pbrtbook
+- [自学图形学推荐读物](https://zhuanlan.zhihu.com/p/569531893)
+- https://github.com/HW140701/Book-list-of-computational-geometry-and-computer-graphics
+- https://github.com/zwluoqi/graphic_books
+- https://github.com/yang-shuohao/Render-Books
+- https://github.com/Gforcex/GPU-Book
 ## Unity
 - [Unity-Books](https://github.com/yang-shuohao/Unity-Books)
 - [《UnityGraphicsProgramming》](https://github.com/IndieVisualLab) 5星 unity 图形学编程
@@ -55,6 +56,7 @@
 * [《Under the Hood of .NET Memory Management》](https://www.red-gate.com/library/under-the-hood-of-net-memory-management) by Chris Farrell and Nick Harrison 
 * [《Functional Concurrency in .NET》](https://www.manning.com/books/functional-concurrency-in-dotnet) by Riccardo Terrell
 ## Go
+- https://github.com/byebyebruce/Introduction-to-Golang
 - https://shgopher.github.io/GOFamily
 - https://github.com/talkgo/read
 - https://github.com/llitfkitfk/go-best-practice
@@ -107,6 +109,7 @@
 - [rust-reference](https://minstrel1977.gitee.io/rust-reference/type-layout.html)
 - [easy_rust_chs](https://github.com/kumakichi/easy_rust_chs)
 - [rust-horizon-2023](https://github.com/RustMagazine/rust-horizon-2023)
+- [comprehensive-rust](https://google.github.io/comprehensive-rust)
 ## Linear-Algebra
 - [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) 线性代数笔记
 - [notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra) Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
