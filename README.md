@@ -7,6 +7,7 @@
 - https://github.com/manjunath5496
 - https://en.algorithmica.org/hpc
 - https://github.com/0voice/expert_readed_books
+- https://github.com/it-ebooks-0/it-ebooks-2023
 ## CG
 - [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 - [chrisbrejon](https://chrisbrejon.com/) 
