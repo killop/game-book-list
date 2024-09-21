@@ -38,6 +38,9 @@
 - [PPHC](https://github.com/johnlui/PPHC) 《高并发的哲学原理》开源图书（CC BY-NC-ND）
 ## 程序员心智
 - [设计规则模块化的力量](https://book.douban.com/subject/1737636/)
+
+## English
+- https://github.com/llwslc/grammar-club
 ### 社科
 - [原则](https://item.jd.com/49644339448.html)
 - [苏世民 我的经验与教训 快速复制成功者的投资管理秘诀 ](https://item.jd.com/12810476.html)
@@ -136,6 +139,8 @@
 - [《实用线性代数》](https://book.douban.com/subject/26336485/)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu)
 
+## Clang
+- https://github.com/xiaoweiChen/Clang-Compiler-Frontend
 ## crypt
 - [人人都能读懂的密码学](https://crypt.wenwoha.com/) [github](https://github.com/guoshijiang/cryptography)
 ## GameEngine
