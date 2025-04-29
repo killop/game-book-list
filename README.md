@@ -8,6 +8,9 @@
 - https://en.algorithmica.org/hpc
 - https://github.com/0voice/expert_readed_books
 - https://github.com/it-ebooks-0/it-ebooks-2023
+
+### Performance
+- [《Performance Analysis and Tuning on Modern CPUS - 2ed》的非专业个人翻译](https://github.com/xiaoweiChen/Performance-Analysis-and-Tuning-on-Modern-CPUS-2ed)
 ## CG
 - [Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes)
 - [chrisbrejon](https://chrisbrejon.com/) 
@@ -32,6 +35,7 @@
 ## Software-Design
 -  [凤凰架构](https://icyfenix.cn/)
 - [《软件设计的哲学》](https://github.com/gdut-yy/A-Philosophy-of-Software-Design-zh)  5星 《软件设计的哲学》中文翻译
+- [A Philosophy of Software Design 《软件设计的哲学》中文翻译](https://github.com/Cactus-proj/A-Philosophy-of-Software-Design-zh)
 - [《架构整洁之道》](https://github.com/gdut-yy/Clean-Architecture-zh) 5星 《架构整洁之道》中文翻译
 - [《编程之道》](https://github.com/yikeke/tao-of-programming)
 - [《魔法十分钟》](https://github.com/goldimax/magic-in-ten-mins)
@@ -41,6 +45,7 @@
 
 ## English
 - https://github.com/llwslc/grammar-club
+- https://hzpt-inet-club.github.io/english-note/
 ### 社科
 - [原则](https://item.jd.com/49644339448.html)
 - [苏世民 我的经验与教训 快速复制成功者的投资管理秘诀 ](https://item.jd.com/12810476.html)
@@ -116,6 +121,7 @@
 - [comprehensive-rust](https://google.github.io/comprehensive-rust)
 ## Linear-Algebra
 - [The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra) 线性代数笔记
+- [Linear-Algebra-Left-Undone)-线性代数：未竟之美](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)
 - [notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra) Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 ## database
 - https://github.com/asdlei99/ddia
