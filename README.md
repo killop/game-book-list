@@ -158,3 +158,7 @@
 - [PL-Compiler-Resource](https://github.com/shining1984/PL-Compiler-Resource) 程序语言与编译技术相关资料（持续更新中）
 ## bpf
 - https://github.com/DavadDi/bpf_study
+
+## education
+- [edu-knowlege](https://github.com/mswnlz/edu-knowlege) 教育各种资料，从幼儿园到小学、中学，涵盖学而思，万维、猿辅导等多个机构，持续增加中
+- [ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) 所有小初高、大学PDF教材
